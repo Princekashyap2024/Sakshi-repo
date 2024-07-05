@@ -1,0 +1,211 @@
+.mens-frame-icon {
+  width: 1472px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.mask-group-icon {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.shirt1 {
+  position: relative;
+  display: inline-block;
+  min-width: 94px;
+}
+.shirt,
+.shirt-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-62xl) 0 75px;
+}
+.shirt {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  gap: var(--gap-xl);
+}
+.mask-group-icon1 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.jeans1 {
+  position: relative;
+  display: inline-block;
+  min-width: 89px;
+}
+.jeans,
+.jeans-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.jeans-wrapper {
+  flex-direction: row;
+  padding: 0 72px;
+}
+.jeans {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  gap: var(--gap-xl);
+}
+.mask-group-icon2 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.t-shirt {
+  position: relative;
+  display: inline-block;
+  min-width: 127px;
+}
+.t-shirt-wrapper,
+.tshirt {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.t-shirt-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-38xl);
+}
+.tshirt {
+  width: 250px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.mask-group-icon3 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.casual-wear1 {
+  position: relative;
+}
+.casual-wear,
+.casual-wear-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.casual-wear {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  gap: var(--gap-xl);
+}
+.mask-group-icon4 {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.mask-group-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl) 0 var(--padding-28xl);
+}
+.traditional-wear1 {
+  position: relative;
+}
+.clothing-categories,
+.traditional-wear {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.traditional-wear {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 223px;
+}
+.clothing-categories {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-11xl);
+}
+.clothing-categories-wrapper,
+.men-pg {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.clothing-categories-wrapper {
+  width: 1473px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--black);
+  font-family: var(--font-playfair-display);
+}
+.men-pg {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-38xl) var(--padding-xl);
+  gap: var(--gap-21xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .casual-wear1,
+  .jeans1,
+  .shirt1,
+  .t-shirt,
+  .traditional-wear1 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 675px) {
+  .men-pg {
+    gap: var(--gap-xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .shirt1 {
+    font-size: var(--font-size-lg);
+  }
+  .shirt-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .casual-wear1,
+  .jeans1,
+  .t-shirt {
+    font-size: var(--font-size-lg);
+  }
+  .mask-group-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .traditional-wear1 {
+    font-size: var(--font-size-lg);
+  }
+}

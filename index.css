@@ -1,0 +1,406 @@
+.image-placeholder {
+  position: absolute;
+  top: 41px;
+  left: 87px;
+  border-radius: var(--br-231xl) var(--br-231xl) 0 0;
+  background-color: var(--color-saddlebrown);
+  border: 1px solid var(--color-saddlebrown);
+  box-sizing: border-box;
+  width: 380px;
+  height: 570px;
+}
+.fashion-portrait-young-elegant-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 429px;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-placeholder-parent {
+  height: 611px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.frame-wrapper {
+  position: absolute;
+  top: 190px;
+  left: 1008px;
+  width: 467px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-child {
+  position: absolute;
+  top: 162px;
+  left: 89px;
+  border-radius: var(--br-231xl) var(--br-231xl) 0 0;
+  background-color: #f7c566;
+  width: 380px;
+  height: 570px;
+}
+.icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 429px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-parent {
+  height: 732px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.frame-container {
+  position: absolute;
+  top: 69px;
+  left: 486px;
+  width: 469px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.your-revolution,
+.your-style {
+  margin: 0;
+}
+.your-style-your-container {
+  margin: 0;
+  position: absolute;
+  top: 305px;
+  left: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.we-provide-the {
+  position: absolute;
+  top: 439px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: #2f2f2f;
+  display: inline-block;
+  width: 414px;
+}
+.shop-now {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-playfair-display);
+  color: var(--black);
+  text-align: left;
+}
+.shop-now-background-child {
+  width: 34px;
+  height: 14px;
+  position: relative;
+}
+.shop-now-background,
+.shop-now-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+}
+.shop-now-button {
+  cursor: pointer;
+  border: 2px solid var(--black);
+  padding: 11px 16px;
+  background-color: transparent;
+  position: absolute;
+  top: 577px;
+  left: 0;
+  border-radius: 20px;
+  flex-direction: row;
+  gap: var(--gap-xl);
+}
+.fashion-fusion-high-resolution-icon {
+  height: 100px;
+  width: 256px;
+  position: relative;
+  cursor: pointer;
+}
+.search-icon {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: 15px;
+  width: 25px;
+  height: 25px;
+}
+.search-input-child {
+  position: absolute;
+  top: -35px;
+  left: 52px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  display: none;
+}
+.search-input {
+  margin-left: -615px;
+  height: 45px;
+  width: 615px;
+  position: relative;
+  border-radius: var(--br-3xs) 0 0 var(--br-3xs);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: Infinity%;
+}
+.log-in {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-playfair-display);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+  min-width: 76px;
+  white-space: nowrap;
+}
+.log-in-button,
+.search-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.log-in-button {
+  cursor: pointer;
+  border: 1px solid var(--black);
+  padding: var(--padding-8xs) 14px;
+  background-color: var(--black);
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  flex-shrink: 0;
+}
+.log-in-button:hover,
+.men-in-home-pg1:hover,
+.men-in-home-pg:hover {
+  background-color: var(--color-darkslategray-100);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+}
+.search-bar {
+  width: 707px;
+  padding: 0 99px 0 608px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.log-in-icon {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  min-height: 34px;
+  cursor: pointer;
+}
+.bag-icon,
+.cart-count {
+  position: absolute;
+  top: 0;
+}
+.bag-icon {
+  height: 100%;
+  width: 89.47%;
+  right: 10.53%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.cart-count {
+  height: 58.82%;
+  width: 52.63%;
+  right: -5.26%;
+  bottom: 41.18%;
+  left: 52.63%;
+  border-radius: 50%;
+  background-color: var(--white);
+  border: 0 solid var(--black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.cart-quantity {
+  position: absolute;
+  top: 0;
+  left: 65.79%;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 9px;
+  z-index: 2;
+}
+.cart,
+.login-icon {
+  height: 34px;
+  position: relative;
+  cursor: pointer;
+}
+.cart {
+  flex: 1;
+}
+.login-icon {
+  width: 34px;
+  border-radius: var(--br-3xs);
+  min-height: 34px;
+}
+.user-actions {
+  width: 170px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
+.frame-parent,
+.header,
+.men {
+  color: var(--black);
+  text-align: left;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  width: 1433px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  z-index: 2;
+  font-size: var(--font-size-base);
+  font-family: var(--font-gfs-neohellenic);
+}
+.frame-parent,
+.men {
+  position: relative;
+  font-family: var(--font-playfair-display);
+}
+.frame-parent {
+  align-self: stretch;
+  height: 801px;
+  max-width: 100%;
+  font-size: var(--font-size-31xl);
+}
+.men {
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  min-width: 55px;
+}
+.men-in-home-pg {
+  cursor: pointer;
+  border: 1px solid var(--black);
+  padding: var(--padding-10xs) var(--padding-10xl);
+  background-color: transparent;
+  border-radius: var(--br-mini);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.men-in-home-pg1:hover,
+.men-in-home-pg:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.men1 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-playfair-display);
+  color: var(--black);
+  text-align: left;
+  min-width: 97px;
+}
+.content,
+.men-in-home-pg-parent,
+.men-in-home-pg1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.men-in-home-pg1 {
+  cursor: pointer;
+  border: 1px solid var(--black);
+  padding: var(--padding-10xs) var(--padding-10xl);
+  background-color: transparent;
+  border-radius: var(--br-mini);
+  justify-content: flex-start;
+}
+.content,
+.men-in-home-pg-parent {
+  max-width: 100%;
+}
+.men-in-home-pg-parent {
+  width: 657px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.content {
+  width: 967px;
+  justify-content: center;
+}
+.home-pg {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-62xl) var(--padding-12xl);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 825px) {
+  .your-style-your-container {
+    font-size: var(--font-size-21xl);
+  }
+  .home-pg {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-style-your-container {
+    font-size: var(--font-size-11xl);
+  }
+  .we-provide-the {
+    font-size: var(--font-size-base);
+  }
+  .men,
+  .men1,
+  .shop-now {
+    font-size: var(--font-size-lgi);
+  }
+  .men-in-home-pg-parent {
+    flex-wrap: wrap;
+  }
+  .home-pg {
+    gap: 15px;
+  }
+}

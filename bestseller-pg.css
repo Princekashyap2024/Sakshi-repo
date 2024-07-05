@@ -1,0 +1,481 @@
+.our-most-loved {
+  margin: 0;
+  width: 530px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.our-most-loved-outfits-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 23px;
+}
+.lorem-ipsum-is-placeholder {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.container,
+.layout {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.layout {
+  width: 577px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--black);
+  font-family: var(--font-playfair-display);
+}
+.buy-multi-color-designer-shara {
+  height: 100%;
+  width: 500px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.best-black-jeans-outfits-for-m,
+.what-is-cocktail-attire-for-me,
+.womens-blue-kurta-set-with-du {
+  height: 100%;
+  width: 500px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 490px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.best-black-jeans-outfits-for-m,
+.womens-blue-kurta-set-with-du {
+  right: -20px;
+}
+.best-black-jeans-outfits-for-m {
+  right: -530px;
+}
+.designer-bridal-wedding-party,
+.download-8-1,
+.indian-saree-ideas-1,
+.waistcoat-design-for-men-1,
+.ways-to-match-your-hair-with-y {
+  height: 100%;
+  width: 500px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -1040px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.download-8-1,
+.indian-saree-ideas-1,
+.waistcoat-design-for-men-1,
+.ways-to-match-your-hair-with-y {
+  right: -1550px;
+}
+.download-8-1,
+.indian-saree-ideas-1,
+.waistcoat-design-for-men-1 {
+  right: -2060px;
+}
+.download-8-1,
+.waistcoat-design-for-men-1 {
+  right: -2570px;
+}
+.download-8-1 {
+  right: -3080px;
+}
+.shop-now5 {
+  position: relative;
+}
+.sharara-products,
+.shop-now-btn-31 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-31 {
+  width: 397px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products {
+  width: 451px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now6 {
+  position: relative;
+}
+.sharara-products1,
+.shop-now-btn-41 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-41 {
+  width: 397px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products1 {
+  width: 451px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now7 {
+  position: relative;
+}
+.shop-now-btn-51 {
+  width: 397px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xl);
+  flex-shrink: 0;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.shop-now8 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.sharara-products2,
+.shop-now-btn-6 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-6 {
+  width: 397px;
+  height: 68px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products2 {
+  width: 441px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now9 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.sharara-products3,
+.shop-now-btn-7 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-7 {
+  width: 397px;
+  height: 68px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products3 {
+  width: 441px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now10 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.sharara-products4,
+.shop-now-btn-8 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-8 {
+  width: 397px;
+  height: 68px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products4 {
+  width: 467px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now11 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.sharara-products5,
+.shop-now-btn-9 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-9 {
+  width: 397px;
+  height: 68px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products5 {
+  width: 441px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now12 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.sharara-products6,
+.shop-now-btn-10 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.shop-now-btn-10 {
+  width: 397px;
+  height: 68px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  white-space: nowrap;
+  z-index: 1;
+}
+.sharara-products6 {
+  width: 441px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shop-now13 {
+  align-self: stretch;
+  width: 197px;
+  position: relative;
+  display: inline-block;
+}
+.shop-now-btn-11 {
+  height: 68px;
+  width: 397px;
+  background-color: var(--color-gray);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  flex-shrink: 0;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.carousel-container,
+.sharara-promo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sharara-promo {
+  width: 1500px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: flex-end;
+  padding: var(--padding-48xl) var(--padding-12xl) var(--padding-48xl) 52px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 59px;
+  min-height: 600px;
+}
+.carousel-container {
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--black);
+  font-family: var(--font-playfair-display);
+}
+.next {
+  height: 32px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 58px;
+}
+.vector-icon1 {
+  width: 31px;
+  height: 23px;
+  position: relative;
+  object-fit: contain;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  width: 31px;
+  height: 31px;
+}
+.mask-group-icon9 {
+  height: 1px;
+  width: 92px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 0;
+  left: -89px;
+}
+.best-seller-corousel,
+.bestseller-pg,
+.next-btn {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.next-btn {
+  width: 94px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-10xs);
+  position: relative;
+  gap: 5px;
+}
+.best-seller-corousel,
+.bestseller-pg {
+  flex-direction: column;
+}
+.best-seller-corousel {
+  align-items: flex-end;
+  padding: 0 0 var(--padding-11xs);
+  gap: 6px;
+  max-width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--black);
+  font-family: var(--font-bebas-neue);
+}
+.bestseller-pg {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 38px 68px;
+  gap: 50px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .sharara-promo {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .sharara-promo {
+    padding-left: 26px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .sharara-promo {
+    gap: 29px;
+  }
+  .next {
+    font-size: 29px;
+  }
+  .bestseller-pg {
+    padding-left: var(--padding-15xl);
+    padding-right: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .next {
+    font-size: 22px;
+  }
+  .bestseller-pg {
+    gap: 25px;
+  }
+}

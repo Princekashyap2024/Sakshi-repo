@@ -1,0 +1,186 @@
+.young-model-girl-woman-posing-icon {
+  width: 1472px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.mask-group-icon5 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.saree1 {
+  position: relative;
+  display: inline-block;
+  min-width: 96px;
+}
+.saree,
+.saree-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.saree-wrapper {
+  flex-direction: row;
+  padding: 0 70px;
+}
+.saree {
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) var(--padding-11xs);
+  gap: var(--gap-18xl);
+}
+.mask-group-icon6 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.kurtis1 {
+  position: relative;
+  display: inline-block;
+  min-width: 112px;
+}
+.kurtis,
+.kurtis-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kurtis-wrapper {
+  flex-direction: row;
+  padding: 0 63px;
+}
+.kurtis {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  gap: var(--gap-18xl);
+}
+.mask-group-icon7 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.party-wear1 {
+  position: relative;
+}
+.party-wear,
+.party-wear-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.party-wear {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs);
+  gap: var(--gap-3xl);
+}
+.mask-group-icon8 {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.mask-group-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl) 0 var(--padding-28xl);
+}
+.traditional-wear3 {
+  position: relative;
+}
+.traditional-wear2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xl);
+  max-width: 100%;
+}
+.clothing-types {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.clothing-types-wrapper,
+.women-pg {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.clothing-types-wrapper {
+  width: 1473px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-21xl) 0 39px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--black);
+  font-family: var(--font-playfair-display);
+}
+.women-pg {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 49px var(--padding-xl) 48px;
+  gap: var(--gap-21xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .clothing-types {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .kurtis1,
+  .party-wear1,
+  .saree1,
+  .traditional-wear3 {
+    font-size: var(--font-size-5xl);
+  }
+  .women-pg {
+    gap: var(--gap-xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .saree1 {
+    font-size: var(--font-size-lg);
+  }
+  .saree {
+    gap: var(--gap-lg);
+  }
+  .kurtis1 {
+    font-size: var(--font-size-lg);
+  }
+  .kurtis {
+    gap: var(--gap-lg);
+  }
+  .party-wear1 {
+    font-size: var(--font-size-lg);
+  }
+  .mask-group-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .traditional-wear3 {
+    font-size: var(--font-size-lg);
+  }
+}
